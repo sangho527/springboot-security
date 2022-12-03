@@ -1,6 +1,6 @@
-package repository;
+package com.example.springbootsecurity.repository;
 
-import domain.User;
+import com.example.springbootsecurity.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

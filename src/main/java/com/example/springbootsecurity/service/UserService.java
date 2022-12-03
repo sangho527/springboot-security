@@ -1,12 +1,12 @@
-package service;
+package com.example.springbootsecurity.service;
 
-import domain.User;
-import domain.dto.UserDto;
-import domain.dto.UserJoinRequest;
-import exception.ErrorCode;
-import exception.HospitalReviewException;
+import com.example.springbootsecurity.repository.UserRepository;
+import com.example.springbootsecurity.domain.User;
+import com.example.springbootsecurity.domain.dto.UserDto;
+import com.example.springbootsecurity.domain.dto.UserJoinRequest;
+import com.example.springbootsecurity.exception.ErrorCode;
+import com.example.springbootsecurity.exception.HospitalReviewException;
 import org.springframework.stereotype.Service;
-import repository.UserRepository;
 
 @Service
 public class UserService {

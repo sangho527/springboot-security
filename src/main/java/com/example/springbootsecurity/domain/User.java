@@ -1,4 +1,4 @@
-package domain;
+package com.example.springbootsecurity.domain;
 
 
 import lombok.AllArgsConstructor;

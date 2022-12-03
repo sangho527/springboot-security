@@ -1,6 +1,6 @@
-package domain.dto;
+package com.example.springbootsecurity.domain.dto;
 
-import domain.User;
+import com.example.springbootsecurity.domain.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package exception;
+package com.example.springbootsecurity.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
